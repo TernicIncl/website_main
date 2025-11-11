@@ -4,21 +4,13 @@ import { Footer } from "@/components/footer"
 export default function Download() {
   const versions = [
     {
-      name: "Stable",
-      version: "2.1.0",
-      description: "Production-ready, fully tested release",
-      size: "425 MB",
-      releaseDate: "Jan 15, 2025",
-      badge: "recommended",
-    },
-    {
-      name: "Beta",
-      version: "2.2.0-beta.1",
-      description: "Early access to upcoming features",
-      size: "438 MB",
-      releaseDate: "Jan 12, 2025",
-      badge: "new",
-    },
+      name: "SOON",
+      version: "0.0.1",
+      description: "Initial upcoming release of TernOS with core features and minimalist design.",
+      size: "?? MB",
+      releaseDate: "January 2026",
+      badge: "soon",
+    }
   ]
 
   return (
