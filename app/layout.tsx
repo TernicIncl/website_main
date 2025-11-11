@@ -23,7 +23,7 @@ export const metadata: Metadata = {
     "modern desktop environment",
   ],
 
-  authors: [{ name: "TernOS Team", url: "https://ternos.io" }],
+  authors: [{ name: "TernOS Team", url: "https://ternic.eu" }],
   creator: "TernOS Team",
   publisher: "TernOS",
 
@@ -63,8 +63,8 @@ export const metadata: Metadata = {
 
   icons: {
     icon: [
-      { url: "/favicon.ico" },
-      { url: "/icon.svg", type: "image/svg+xml" },
+      // { url: "/favicon.ico" },
+      // { url: "/icon.svg", type: "image/svg+xml" },
       { url: "/apple-touch-icon.png", sizes: "180x180", type: "image/png" },
     ],
   },
